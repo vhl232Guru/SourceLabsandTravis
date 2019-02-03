@@ -16,8 +16,8 @@
         </plugins>
     </build>
 
-    <groupId>Source Labs and Travis</groupId>
-    <artifactId>Source Labs and Travis</artifactId>
+    <groupId>SourceLabsandTravis</groupId>
+    <artifactId>SourceLabsandTravis</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
 
