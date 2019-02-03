@@ -1,1 +1,5 @@
 language: java
+addons:
+  sauce_connect:
+    username: "vhl232"
+    access_key: "e8c0f0c2-6406-40ee-9afa-a86d668ab490"
