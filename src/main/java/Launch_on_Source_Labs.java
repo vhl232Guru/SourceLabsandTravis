@@ -29,8 +29,8 @@ WebDriver driver;
     public void test1(){
        driver.get("https://www.google.com.ua");
        String title = driver.getTitle();
-        System.out.println(title);
-       //Assert.assertEquals();
+       System.out.println(title);
+       Assert.assertEquals("Google",title);
     }
 
     @AfterClass
